@@ -28,4 +28,4 @@ Final Project of Database Management
 	- (三) 系統/品牌喜好 (例如:要XX品牌...不要XX品牌)
 	- (四) 補充說明 (補充說明以上沒提到的點)
 
-### Code待整理
+### Code - To be Uploaded
